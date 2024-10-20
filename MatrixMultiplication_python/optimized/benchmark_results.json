@@ -1,0 +1,27 @@
+[
+    {
+        "matrix_size": 100,
+        "execution_time_mean": 1.786958599996069,
+        "memory_usage_mb": 0.2734375
+    },
+    {
+        "matrix_size": 200,
+        "execution_time_mean": 6.723647799981336,
+        "memory_usage_mb": 1.1484375
+    },
+    {
+        "matrix_size": 500,
+        "execution_time_mean": 41.528746249991855,
+        "memory_usage_mb": 7.0546875
+    },
+    {
+        "matrix_size": 700,
+        "execution_time_mean": 83.26112014999582,
+        "memory_usage_mb": 12.07421875
+    },
+    {
+        "matrix_size": 1000,
+        "execution_time_mean": 171.2021580000055,
+        "memory_usage_mb": 24.04296875
+    }
+]
